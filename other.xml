@@ -329,6 +329,9 @@
       <option name="ENABLED" value="true" />
     </filter>
   </component>
+  <component name="RefactoringSettings">
+    <option name="MOVE_PREVIEW_USAGES" value="false" />
+  </component>
   <component name="TeamCityHistory">
     <option name="HISTORY" value="" />
   </component>
